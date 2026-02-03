@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-deka-registry
   description: SRS Deka Registry
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-deka_registry-v1.0
